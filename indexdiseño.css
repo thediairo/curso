@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+}
+#holae{
+    color: yellow;
+}
+.especial{
+    color: brown;
+}
+#es:hover{
+    color: rgb(96, 153, 106);
+}
+#DE1{
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 8%, rgba(20,20,127,1) 37%, rgba(16,105,124,0.9828279357025589) 76%); 
+    border: 2px double black;
+    box-shadow: 0px -5px 30px black;
+    margin: 100px;
+    padding: 50px;
+}
